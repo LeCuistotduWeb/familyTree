@@ -7,5 +7,5 @@ npm i
 
 ## Start
 ```
-npm run staret
+npm run start
 ```
