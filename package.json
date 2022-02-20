@@ -1,0 +1,14 @@
+{
+  "name": "family-tree",
+  "version": "1.0.0",
+  "description": "A family tree app",
+  "main": "main.js",
+  "author": "LeCuistotDuWeb",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
